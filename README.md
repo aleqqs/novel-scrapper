@@ -19,17 +19,23 @@ To run the script, make sure you have the required libraries installed:
 Clone the repo in the folder you want and add execution right for the script : 
 
 ```bash
-chmod +x novel_scraper.sh
+chmod +x novel_scrapper.sh
 ```
 
 You can now run the script using with the following command:
 
 ```bash
-./novel_scraper.sh [URL] [INT]
+./novel_scrapper.sh [URL] [INT]
 ```
 
-Replace [URL] with the URL of the web novel you want to scrape (e.g. : "mysite.site/novel/my-novel-is-the-best" ) and [INT] which is the number of chapters you want to download all the way from chapter 1.
+```bash
+# Example scrapping from chapter 1 to chapter 265 of the "Novel I want to scrape"
+./novel_scrapper https://mysite.site/novel/novel-i-want-to-scrape/ 265
+```
+
+Replace [URL] with the URL of the web novel you want to scrape and [INT] which is the number of chapters you want to download all the way from chapter 1.
 
 # Responsability
 
-I do not hold any responsibility for the use of this script and it is up to you to determine if the use of it is in accordance with the terms of use of the website and the applicable laws. Be mindful of the potential impact on the website and its servers, as excessive scraping can place a strain on the resources and potentially lead to negative consequences.
+I do not hold any responsibility for the use of this script and it is up to you to determine if the use of it is in accordance with the terms of use of the website and the applicable laws. 
+Be mindful of the potential impact on the website and its servers, as excessive scraping can place a strain on the resources and potentially lead to negative consequences.
