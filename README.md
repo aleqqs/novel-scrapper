@@ -13,7 +13,9 @@ To run the script, make sure you have the required dependencies installed:
 # Installation
 
 Then, navigate to the directory where the script is located and run it with the following command:
+```sh
 ./novel_scraper.sh [URL] [output_directory]
+```
 
 Replace [URL] with the URL of the web novel you want to scrape and [output_directory] with the desired directory to save the output files.
 
