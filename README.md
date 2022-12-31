@@ -1,6 +1,6 @@
 # novel-scrapper
 
-The script will scrape the web novel, remove unwanted elements and patterns, and format the text for easier reading. The formatted text will then be saved to individual text files in a specified output directory corresponding to the given URL, with the file names corresponding to the chapter numbers.
+This bash script is used to scrape and format web novel content from a specific website and save it to individual text files, one file per chapter.
 
 # Conditions
 
