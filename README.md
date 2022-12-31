@@ -36,6 +36,14 @@ Replace [URL] with the URL of the web novel you want to scrape and [INT] which i
 ./novel_scrapper https://mysite.site/novel/novel-i-want-to-scrape/ 265
 ```
 
+# Improvements
+
+If you encounter any issues while using this script or if you have any ideas for new functionalities or improvements for the script, 
+feel free to create a ticket.
+
+Your feedback is greatly appreciated and will help improve the script for everyone.
+
+
 # Responsability
 
 I do not hold any responsibility for the use of this script and it is up to you to determine if the use of it is in accordance with the terms of use of the website and the applicable laws. 
