@@ -16,8 +16,15 @@ To run the script, make sure you have the required libraries installed:
 
 # Installation
 
-Then, navigate to the directory where the script is located and run it with the following command:
-```sh
+Clone the repo in the folder you want and add execution right for the script : 
+
+```bash
+chmod +x novel_scraper.sh
+```
+
+You can now run the script using with the following command:
+
+```bash
 ./novel_scraper.sh [URL] [INT]
 ```
 
