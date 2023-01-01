@@ -10,8 +10,6 @@ Please note that this script is designed to work specifically with websites that
 
 If you are attempting to use this script on a website that does not use this specific WordPress CMS, it is likely that it will not function as intended. 
 
-Additionally, it is not appropriate for me to disclose specific websites on which this script may work, as websites are constantly changing and may disappear or reappear at any time.
-
 I am not responsible for the use of this script. Please use this script responsibly and at your own risk.
 
 # Requirements
@@ -21,6 +19,7 @@ To run the script, make sure you have the required libraries installed:
  -  curl
  -  awk
  -  sed
+ -  libxml2-utils
 
 # Installation
 
